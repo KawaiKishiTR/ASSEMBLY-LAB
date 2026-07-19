@@ -16,8 +16,8 @@ Bu belge, **ASSEMBLY LAB** projesinin kapsamını, hedeflerini, eldeki akademik 
 ### 📦 Faz 1: Yazarak Öğrenme & Syntax Kas Hafızası (Şu An Buradayız)
 *Bu fazda debug araçlarına boğulmadan, doğrudan kod yazarak, derleyerek ve işletim sistemi çıkış kodlarını okuyarak ilerlenecektir.*
 * [x] Ortam Kurulumu (Fedora 44 / WSL / NASM / GCC / VS Code Ayarları)
-* [ ] Lab 01: Saf Assembly ile Hello World (`sys_write` & `sys_exit` sistem çağrıları)
-* [ ] Lab 02: Yazmaç Mimarisi ve Alt Bölmeler (`MOV` manipülasyonları ve 32-bit sıfırlama kuralı)
+* [x] Lab 01: Saf Assembly ile Hello World (`sys_write` & `sys_exit` sistem çağrıları)
+* [x] Lab 02: Yazmaç Mimarisi ve Alt Bölmeler (`MOV` manipülasyonları ve 32-bit sıfırlama kuralı)
 * [ ] Lab 03: İşlemciye Karar Aldırma, Döngüler ve Matematiksel Algoritmalar (`CMP`, `Jumps`, `Loops`)
 * [ ] Lab 04: Bellek Adresleme Modları (RAM Veri Okuma/Yazma, İşaretçiler ve Diziler)
 
